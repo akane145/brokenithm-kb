@@ -20,7 +20,7 @@ WORD YUANCON_BTN_MAP[N_BUTTONS] = {
   '0', 'H', '0', 'H', '0', 'J', '0', 'J',
   '0', 'K', '0', 'K', '0', 'L', '0', 'L',
     VK_SPACE, VK_SPACE, VK_SPACE,
-    VK_SPACE, VK_SPACE, VK_SPACE};
+    VK_SPACE, VK_SPACE, VK_SPACE };
 
 struct KeyboardSimulator::Impl
 {
